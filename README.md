@@ -6,7 +6,11 @@ This project is a simple Student Management System developed to practice and und
 
 The system includes basic front-end files such as HTML, CSS, and JavaScript, and will be updated step by step to simulate real-world software development scenarios.
 
+<<<<<<< HEAD
 Project status: MAIN VERSION
+=======
+Project status: FEATURE VERSION
+>>>>>>> feature-login
 
 ## 🎯 Objective
 
