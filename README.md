@@ -10,7 +10,6 @@ The system includes basic front-end files such as HTML, CSS, and JavaScript, and
 Project status: MAIN VERSION
 =======
 Project status: FEATURE VERSION
->>>>>>> feature-login
 
 ## 🎯 Objective
 
