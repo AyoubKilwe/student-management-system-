@@ -6,6 +6,8 @@ This project is a simple Student Management System developed to practice and und
 
 The system includes basic front-end files such as HTML, CSS, and JavaScript, and will be updated step by step to simulate real-world software development scenarios.
 
+Project status: MAIN VERSION
+
 ## 🎯 Objective
 
 - Learn Git fundamentals (init, add, commit, log)
