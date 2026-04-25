@@ -31,6 +31,10 @@ This command shows a short version of the commit history. Each commit is display
 
 This command shows the differences between changes in files. It helps to see what has been modified before committing.
 
+## Remote Operations
+
+This section explains local changes, pushing to GitHub, editing on GitHub, and pulling updates.
+
 ## 🛠 Technologies Used
 
 - HTML
